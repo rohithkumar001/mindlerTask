@@ -1,0 +1,12 @@
+<link
+  href="https://unpkg.com/gridjs/dist/theme/mermaid.min.css"
+  rel="stylesheet"
+/>
+<gridjs-angular
+  [config]="config"
+  (cellClick)="handleCellClick($event)"
+  (rowClick)="handleRowClick($event)"
+  (beforeLoad)="handleBeforeLoad($event)"
+  (gridLoad)="handleGridLoad($event)"
+  (ready)="handleGridReady($event)"
+></gridjs-angular>
