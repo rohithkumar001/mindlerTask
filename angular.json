@@ -28,8 +28,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.less",
-              "./node_modules/@syncfusion/ej2-material-theme/styles/material.css"
+              "src/styles.less"
             ],
             "scripts": []
           },
@@ -93,8 +92,7 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.less",
-              "./node_modules/@syncfusion/ej2-material-theme/styles/material.css"
+              "src/styles.less"
             ],
             "scripts": []
           }
